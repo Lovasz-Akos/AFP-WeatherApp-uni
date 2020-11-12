@@ -3,27 +3,23 @@
 const e = React.createElement;
 
 class LikeButton extends React.Component {
-    constructor(props) {
-        super(props);
-        this.state = { liked: false };
-    }
-
-    render() {
-        if (this.state.liked) {
-            return 'You liked this.';
+        constructor(props) {
+            super(props);
+            this.state = { liked: false };
         }
 
-        return ( <
-            button onClick = {
-                () => this.setState({ liked: true })
-            } >
-            like <
-            /button>
-        );
-    }
-}
+        render() {
+            if (this.state.liked) {
+                return 'You liked this.';
+            }
 
-// ... the starter code you pasted ...
+            return e(
+                'button', { onClick: () => this.setState({ liked: true }) },
+                'Like'
+            );
+        }
+    }
+    // ... the starter code you pasted ...
 
 const domContainer = document.querySelector('#like_button_container');
 ReactDOM.render(e(LikeButton), domContainer);
