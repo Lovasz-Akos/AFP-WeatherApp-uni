@@ -1,0 +1,4 @@
+1. Overview
+we have a project in which we have made a weather app,
+when we open the app and input our location,
+it will show the weather forecast
