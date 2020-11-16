@@ -29,11 +29,14 @@ body{
 }
 .box-top-bar {
 	font-size: 14px;
-	vertical-align: center;
 	height: 10%;
 }
 .box-top-bar i{float: right;}
-
+.box-top-bar i:hover{
+	transition: 0.5s ease;
+	cursor: pointer;
+	text-shadow: 0px 0px 10px white;
+}
 .box-top-weather {
 	margin-top: 25px;
 	padding: 10px;
@@ -50,3 +53,24 @@ body{
 .box-top-blue {background-color: #27aee3;}
 .box-top-purple {background-color: #9c88ff;}
 .box-top-pink {background-color: #CE4572;}
+
+.box-bottom {
+	padding: 0px 5px 5px 5px;
+	border-radius: 0px 0px 5px 5px;
+	height: 45%;
+}
+
+table.bottomTable {
+	color: #363636;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  border-collapse: collapse;
+}
+table.bottomTable td, table.bottomTable th {
+  border: none;
+  padding: 3px 4px;
+}
+table.bottomTable tr:nth-child(even) {
+  background: #EFEFEF;
+}
