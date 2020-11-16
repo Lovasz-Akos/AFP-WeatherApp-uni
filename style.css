@@ -25,9 +25,22 @@ body{
 	color: white;
 	text-align: left;
 	border-radius: 5px 5px 0px 0px;
-	height: 55%;
+	height: 50%;
 }
+.box-top-bar {
+	font-size: 14px;
+	vertical-align: center;
+	height: 10%;
+}
+.box-top-bar i{float: right;}
 
+.box-top-weather {
+	margin-top: 25px;
+	padding: 10px;
+	text-align: right;
+	font-size: 40px;
+}
+.box-top-weather i{float: left;font-size: 90px;}
 
 .box-top-red {background-color: #EC4445;}
 .box-top-teal {background-color: #55E6C1;}
