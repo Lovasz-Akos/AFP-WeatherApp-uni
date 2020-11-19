@@ -1,0 +1,76 @@
+body{
+	overflow: hidden;
+	background-color: #2b2b2b;
+	padding: 2vh;
+	font-family: 'Comfortaa', cursive;
+}
+.wrapper {
+  width: 100%;
+  height: 100%;
+    justify-content: center;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 275px 275px 275px 275px;
+    grid-gap: 25px;
+}
+.box {
+	margin-bottom: 40px;
+    height: 42vh;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+}
+.box-top {
+	padding: 15px 15px 0px 15px;
+	color: white;
+	text-align: left;
+	border-radius: 5px 5px 0px 0px;
+	height: 50%;
+}
+.box-top-bar {
+	font-size: 14px;
+	height: 10%;
+}
+.box-top-bar i{float: right;}
+.box-top-bar i:hover{
+	transition: 0.5s ease;
+	cursor: pointer;
+	text-shadow: 0px 0px 10px white;
+}
+.box-top-weather {
+	margin-top: 25px;
+	padding: 10px;
+	text-align: right;
+	font-size: 40px;
+}
+.box-top-weather i{float: left;font-size: 90px;}
+
+.box-top-red {background-color: #EC4445;}
+.box-top-teal {background-color: #55E6C1;}
+.box-top-orange {background-color: #ffaf40;}
+.box-top-green {background-color: #badc58;}
+.box-top-gray {background-color: #817871;}
+.box-top-blue {background-color: #27aee3;}
+.box-top-purple {background-color: #9c88ff;}
+.box-top-pink {background-color: #CE4572;}
+
+.box-bottom {
+	padding: 0px 5px 5px 5px;
+	border-radius: 0px 0px 5px 5px;
+	height: 45%;
+}
+
+table.bottomTable {
+	color: #363636;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  border-collapse: collapse;
+}
+table.bottomTable td, table.bottomTable th {
+  border: none;
+  padding: 3px 4px;
+}
+table.bottomTable tr:nth-child(even) {
+  background: #EFEFEF;
+}
