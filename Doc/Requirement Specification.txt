@@ -14,6 +14,16 @@ our Dream is simple just to help people with this well designed  Weather forecas
 
 
 4. Functional requirements
+button open - by clicking this button app will start and will show u homepage
+
+search button - this function will work as to find location that user want to find
+
+input location - this function will input the location
+
+refresh - this function will refresh the whole data and will show new data
+
+exit - this function is used to come back out of the app
+
 
 
 5. System rules, patterns, recommendations.
