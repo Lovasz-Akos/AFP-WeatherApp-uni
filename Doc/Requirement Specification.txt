@@ -5,6 +5,8 @@ this app is made to help people to get information about Weather of their cities
 
 
 2. Current State
+Current State is perfect for such a app like this Weather app, beacause in this modern world everyone is carrying
+a mobile or laptop to use this teachnology and make it more eassy.
 
 
 3. Dream system
