@@ -27,6 +27,7 @@ exit - this function is used to come back out of the app
 
 
 5. System rules, patterns, recommendations.
+In this app we have used HTML and CSS for data and designing , JAVASCRIPT and REACT to handle the project's mechanics
 
 
 6. Current business flow model.
