@@ -1,4 +1,7 @@
 1. Overview
+This is a Weather app ,in which u can get information about openweather of any city in the world by searching the city ,
+we have used HTML,CSS,JAVASCRIPT AND REACT to make this app.
+this app is made to help people to get information about Weather of their cities.
 
 
 2. Current State
