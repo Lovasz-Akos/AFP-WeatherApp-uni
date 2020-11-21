@@ -42,6 +42,12 @@ in this app you can find the information about Weather forecast of any location 
 
 
 8. List of requirements
+Here we have HTML to make this app and then for designing we have used CSS , and then for the data and mechanics 
+we have used JAVASCRIPT and REACT.
+button open - will start the app
+then we have some function will work on the data and will provide you the information
+button exit will close the app .
+
 
 
 9. Reports
