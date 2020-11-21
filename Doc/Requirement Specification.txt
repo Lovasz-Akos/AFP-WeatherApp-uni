@@ -59,3 +59,10 @@ clicking the exit button will stop the app and will come out.
 
 
 10. Glossary
+HTML: Hypertext Markup Language, the foundation of any website
+
+CSS: Cascading Style Sheets, this is used to make app  look more designed and prettier
+
+JavaScript: A programming language that's widely used in web enviorements 
+
+REACT : React.js is an open-source JavaScript library that is used for building user interfaces
