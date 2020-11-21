@@ -38,6 +38,7 @@ In this app we have used HTML and CSS for data and designing , JAVASCRIPT and RE
 
 
 7. Required business flow
+in this app you can find the information about Weather forecast of any location and as many as you want .
 
 
 8. List of requirements
