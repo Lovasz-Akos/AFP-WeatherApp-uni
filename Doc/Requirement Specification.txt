@@ -1,5 +1,5 @@
 1. Overview
-This is a Weather app ,in which u can get information about openweather of any city in the world by searching the city ,
+This is a Weather app ,in which you can get information about openweather of any city in the world by searching the city ,
 we have used HTML,CSS,JAVASCRIPT AND REACT to make this app.
 this app is made to help people to get information about Weather of their cities.
 
@@ -14,7 +14,7 @@ our Dream is simple just to help people with this well designed  Weather forecas
 
 
 4. Functional requirements
-button open - by clicking this button app will start and will show u homepage
+button open - by clicking this button app will start and will show you homepage
 
 search button - this function will work as to find location that user want to find
 
@@ -31,6 +31,10 @@ In this app we have used HTML and CSS for data and designing , JAVASCRIPT and RE
 
 
 6. Current business flow model.
+ we have a openweather forecast app , that has the information about Weather of all citiesin the world,
+ the goal of this app is to make eassy for people to  get information about Weather 
+ after the start of the app , you need input the location  app will find your location and will give you the Weatherof your location
+ clicking the refresh button you will get update and clicking exit button app will be closed.
 
 
 7. Required business flow
