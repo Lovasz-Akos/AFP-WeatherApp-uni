@@ -52,5 +52,10 @@ button exit will close the app .
 
 9. Reports
 
+So Reports are , we have Weather forecast app ,by clicking the start button will start the app and  then user will
+input the location and app will find the location and will give you the Weather of your location ,
+if user wants new update then you need to click refresh button to get updates
+clicking the exit button will stop the app and will come out.
+
 
 10. Glossary
