@@ -1,11 +1,40 @@
 1. Goal of the system
+We aimed to create a simple, intuitive, beautiful weather app,
+that's ran in the cloud, thus supporting just about every device that can load the page.
+We feel that many if not most weather sites compact information too densely and provide too much data
+that isn't truely useful, such as sattelite and radar images of could formations have close to no meaning to
+the every day user.
+
 2. Project plan
+Contributors.                Roles.                        
+
+1.Lovász Ákos       > Original idea, Project manager, Documentation, 
+2.Bálint Krigovszki > UI Designer, Documentation
+3.Om Parkash        > Backend programmer, Documentation
+4.Yang Yizhou       > Backend/Frontend programmer, Documentation
+
 3. Business process model
+
+
 4. Requirements
+
+
 5. Functional plan
+
+
 6. Physical enviorement
+
+
 7. Architectural plan
+
+
 8. Implementation plan
+
+
 9. Testing plan
+
+
 10. Install plan
+
+
 11. Maintenance plan
