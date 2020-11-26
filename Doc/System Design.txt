@@ -1,0 +1,11 @@
+1. Goal of the system
+2. Project plan
+3. Business process model
+4. Requirements
+5. Functional plan
+6. Physical enviorement
+7. Architectural plan
+8. Implementation plan
+9. Testing plan
+10. Install plan
+11. Maintenance plan
