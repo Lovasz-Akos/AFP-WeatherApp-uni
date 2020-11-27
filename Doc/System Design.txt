@@ -1,0 +1,56 @@
+1. Goal of the system
+We aimed to create a simple, intuitive, beautiful weather app,
+that's ran in the cloud, thus supporting just about every device that can load the page.
+We feel that many if not most weather sites compact information too densely and provide too much data
+that isn't truely useful, such as sattelite and radar images of could formations have close to no meaning to
+the every day user.
+
+
+2. Project plan
+Contributors.                Roles.                        
+
+1.Lovász Ákos       > Original idea, Project manager, Documentation, 
+2.Bálint Krigovszki > UI Designer, Documentation
+3.Om Parkash        > Backend programmer, Documentation
+4.Yang Yizhou       > Backend/Frontend programmer, Documentation
+
+
+3. Business process model
+
+
+4. Requirements
+The site has to achieve the following goals:
+    -Simple, intuitive interface
+    -Ability to search for any city/town
+    -Display current weather with termperature
+    -Display weather forecast
+
+
+5. Functional plan
+As the site provides no option to register an account, we don't need to set up differing levels of permissions
+or access levels to different features. We provide all the functionality as-is.
+
+
+6. Physical enviorement
+
+
+
+7. Architectural plan
+
+
+8. Implementation plan
+
+
+9. Testing plan
+
+
+10. Install plan
+As this is a self-contained web application, it can be hosted on basically any computer with an internet connection.
+The API key used for weather data communication is hardcoded into the JS, as it should not be accessed by any users
+outside of the system admin.
+
+
+11. Maintenance plan
+Since the interface was designed to be as dynamic as possible, the only part of the app that could require maintenance
+is the weather data API itself. This API key can easily be changed by adjusting a single variable in the code,
+this will update all occurances of the API key.
