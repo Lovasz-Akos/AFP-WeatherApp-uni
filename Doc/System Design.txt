@@ -16,7 +16,8 @@ Contributors.                Roles.
 
 
 3. Business process model
-
+There is search bar on the picture ,user input a location in the bar,
+then the weather information of that location will be shown
 
 4. Requirements
 The site has to achieve the following goals:
@@ -32,7 +33,7 @@ or access levels to different features. We provide all the functionality as-is.
 
 
 6. Physical enviorement
-
+the platform for the program is visual studio code , and it was created by Javascript , HTML and CSS .
 
 
 7. Architectural plan
