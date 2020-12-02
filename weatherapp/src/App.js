@@ -53,7 +53,7 @@ changeWeather=(event)=>{
   event.preventDefault();
 
   Axios.get(`http://api.weatherstack.com/current?access_key=8a6ac22a561da3e32e9d19281854c260&query=${this.state.inputData}`).then(res=>{
-    let weatherData = {
+    if( res.data.location) {let weatherData = {
       location: res.data.location.name,
       temperature: res.data.current.temperature,
       description: res.data.current.weather_descriptions[0],
@@ -67,7 +67,7 @@ changeWeather=(event)=>{
       precip: res.data.current.precip,
     }
     this.setState( {data: weatherData});
-  })
+  }})
 }
 
 render() {
