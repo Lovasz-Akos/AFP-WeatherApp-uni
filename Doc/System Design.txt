@@ -16,8 +16,9 @@ Contributors.                Roles.
 
 
 3. Business process model
-There is search bar on the picture ,user input a location in the bar,
-then the weather information of that location will be shown
+by default ,the app will show the weather information of Kapolna in Huangary, and there is 
+a search bar,user can input a location(city name) in the bar,then the app will down weather information 
+from Weatherstack via API link and show the information,if the user input wrong name ,the app will do nothing
 
 4. Requirements
 The site has to achieve the following goals:
