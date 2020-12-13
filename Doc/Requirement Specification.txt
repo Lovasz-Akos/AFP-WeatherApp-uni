@@ -1,6 +1,6 @@
 1. Overview
 This is a Weather app ,in which you can get information about openweather of any city in the world by searching the city ,
-we have used HTML,CSS,JAVASCRIPT AND REACT to make this app.
+we have used HTML,CSS,JAVASCRIPT, REACT and AXIOS to make this app.
 this app is made to help people to get information about Weather of their cities.
 
 
@@ -27,7 +27,7 @@ exit - this function is used to come back out of the app
 
 
 5. System rules, patterns, recommendations.
-In this app we have used HTML and CSS for data and designing , JAVASCRIPT and REACT to handle the project's mechanics
+In this app we have used HTML and CSS for data and designing , JAVASCRIPT , REACT and AXIOS to handle the project's mechanics
 
 
 6. Current business flow model.
@@ -43,8 +43,8 @@ in this app you can find the information about Weather forecast of any location 
 
 8. List of requirements
 Here we have HTML to make this app and then for designing we have used CSS , and then for the data and mechanics 
-we have used JAVASCRIPT and REACT.
-button open - will start the app
+we have used JAVASCRIPT, REACT and AXIOS. 
+button search - will search the location in  the app
 then we have some function will work on the data and will provide you the information
 button exit will close the app .
 
@@ -66,3 +66,5 @@ CSS: Cascading Style Sheets, this is used to make app  look more designed and pr
 JavaScript: A programming language that's widely used in web enviorements 
 
 REACT : React.js is an open-source JavaScript library that is used for building user interfaces
+
+AXIOS : Axios is a popular, promise-based HTTP client that sports an easy-to-use API and can be used in both the browser and Node. js. 
