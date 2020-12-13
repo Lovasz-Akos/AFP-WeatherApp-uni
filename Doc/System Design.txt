@@ -41,7 +41,9 @@ the platform for the program is visual studio code , and it was created by Javas
 
 
 8. Implementation plan
-
+for this web based project we used html to build the basic structure then used CSS elements and classes to give it a simple and clean design anyone can
+easily understand.we also used the Javascript to handle the mechanisme of our web project
+in Javascript we used react and axios to display weather data.
 
 9. Testing plan
 during test stratgy,we need to test every function one by one,including system testing
