@@ -16,8 +16,9 @@ Contributors.                Roles.
 
 
 3. Business process model
-There is search bar on the picture ,user input a location in the bar,
-then the weather information of that location will be shown
+by default ,the app will show the weather information of Kapolna in Huangary, and there is 
+a search bar,user can input a location(city name) in the bar,then the app will down weather information 
+from Weatherstack via API link and show the information,if the user input wrong name ,the app will do nothing
 
 4. Requirements
 The site has to achieve the following goals:
@@ -43,7 +44,10 @@ the platform for the program is visual studio code , and it was created by Javas
 
 
 9. Testing plan
-
+during test stratgy,we need to test every function one by one,including system testing
+the tester should have the ability to understand customers point of view,then we should test the whole
+program,the goal is to test the whole program with random city name(including wrong city name) to see what will happen,
+if anything uxpected occure ,then we need to fix them.
 
 10. Install plan
 As this is a self-contained web application, it can be hosted on basically any computer with an internet connection.
