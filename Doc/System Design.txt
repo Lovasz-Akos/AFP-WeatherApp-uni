@@ -38,6 +38,12 @@ the platform for the program is visual studio code , and it was created by Javas
 
 
 7. Architectural plan
+The application's design is created via HTML and CSS. The HTML contains wrapper classes and classes have boxes 
+that boxes contains data , data is forecast weather data that is display by axios using API from Weatherstack for that 
+we have used a function named 'DisplayWeather.js'.
+then we have a function 'Navbar.js' that contains the search button, to input different location .
+As it is connected to Weatherstack so any time you  refresh it will give u updated data.
+
 
 
 8. Implementation plan
