@@ -1,0 +1,6 @@
+Action performed                                Expected outcome                                Outcome                                   Issues
+
+input several city name                       show the weather information of these cities    show the weather information of these city  No issues found
+input several wrong city name                 no react                                        no react                                    No issues found
+cover the older city by a new city            show information of the new city                show information of the new city            No issues found
+refresh the app                               show the information of default city            show information of default city            No issues found
