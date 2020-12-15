@@ -1,0 +1,8 @@
+Action performed                                Expected outcome                                Outcome                                   
+
+Search for any town/city                        Weather data shows up or corresponding cards    Nothing happens
+                                                
+Search for any town/city                        Weather dara shows up as expected,              Entire app crashes, requring an npm restart
+with hungarian letters                          or throws error
+
+Scrolling down on the page                      The rest of the page coming into view           The page stays cut-off
