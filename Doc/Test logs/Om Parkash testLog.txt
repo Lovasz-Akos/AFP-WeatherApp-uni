@@ -1,0 +1,14 @@
+Action performed                                Expected outcome                                    Outcome                                                 Issues
+
+Open the app                                  show the information of default city              it shows information of default city                      No issues found
+
+
+input city name                               show the weather information of the input city    it shows the weather information of the input city        No issues found
+
+
+input wrong city name                         no reaction                                       no reaction                                               No issues found
+
+
+refresh the app                               show the information of default city              it shows information of default city                      No issues found
+
+
