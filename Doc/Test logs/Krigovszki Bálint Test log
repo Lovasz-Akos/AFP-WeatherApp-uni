@@ -1,0 +1,10 @@
+Action performed                                Expected outcome                                Outcome
+
+Opened project                                  The app detects my location automatically       My location was detected and data showed up accordingly
+                                                and shows weather data according to that
+
+Search for location                             Weather data shows up according to the          Weather data displayed according to search
+                                                searched location
+
+Search for location with hungarian letters      Weather data shows up according to the          Nothing happens, no warnings or notice given of any error
+                                                searched location
