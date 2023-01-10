@@ -1,1 +1,2 @@
-AFP-Team1-Weather
+# AFP-Team1-Weather
+A nice looking simplified weather forecast webapp
